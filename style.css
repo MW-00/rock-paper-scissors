@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap");
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.score {
+}
+
+#player1cat {
+}
+
+#player2cat {
+  transform: scaleX(-1);
+}
+
+.paw {
+  width: 95%;
+}
+.custom-btn {
+  font-family: "Amatic SC", cursive !important;
+  font-weight: 600 !important;
+  font-size: 22px !important;
+}
+
+p {
+  font-family: "Amatic SC", cursive;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+img {
+  align-self: center;
+}
